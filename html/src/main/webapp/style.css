@@ -1,0 +1,21 @@
+body {
+	color: #bbbbbb;
+	text-align: center;
+}
+
+#playn-root {
+	width: 800px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#title,#subtitle {
+	font-family: 'IM Fell DW SC';
+}
+
+p {
+	font-family: 'IM Fell DW';
+}
+
+a:link, a:visited, a:hover, a:active { color: #bbbbbb; }
